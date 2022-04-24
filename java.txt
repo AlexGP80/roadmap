@@ -1,4 +1,12 @@
 Core:
+  - Working with Files:
+  - Interfaces:
+  - OOP:
+  - Variables:
+  - Classes:
+  - Loops:
+  - Inheritance:
+  - Etc:
 
 Advanced:
   - Optionals:
