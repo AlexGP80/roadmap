@@ -5,7 +5,7 @@ Advanced:
   - Data Structures & Algorithms:
   - Dependency Injection:
   - Garbage Collection:
-  - Desing Patterns:
+  - Design Patterns:
   - How JVM Works :
   - Best Practices:
   - Basics of Threads:
@@ -15,7 +15,7 @@ Advanced:
 
 REST:
   - HTTP:
-  - Jackson
+  - Jackson:
 
 Databases:
   - ORM:
@@ -29,3 +29,28 @@ Databases:
     - Joins:
     - Queries
     - Database Administration:
+  - JDBC:
+    - Plain JDBC:
+    - JDBI3:
+    - JDBC Template:
+
+Build Tools:
+  - Maven:
+
+Logging Frameworks:
+  - Log4j2:
+
+Misc:
+  - Git:
+  - Linux:
+
+Testing:
+  - Contract Testing:
+  - Integration Testing:
+  - Unit Testing:
+    - Assertion Library:
+    - Mocking:
+  - Debugging:
+
+Frameworks:
+  - Spring: TBD
