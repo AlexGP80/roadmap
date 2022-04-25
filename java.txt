@@ -14,7 +14,7 @@ Advanced:
   - Dependency Injection:
   - Garbage Collection:
   - Design Patterns:
-  - How JVM Works :
+  - How JVM Works:
   - Best Practices:
   - Basics of Threads:
   - Streams:
@@ -35,7 +35,7 @@ Databases:
     - Transactions (ACID):
     - Indexes:
     - Joins:
-    - Queries
+    - Queries:
     - Database Administration:
   - JDBC:
     - Plain JDBC:
