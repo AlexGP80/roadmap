@@ -1,0 +1,50 @@
+VERIFY INSTALLATION
+===================
+git --version
+
+
+CONFIGURE GIT
+=============
+git config --global user.name "AlexGP80"
+git config --global user.email "alejandrogamino@protonmail.com"
+git config --global color.ui auto
+
+(see current config)
+git config -l
+
+
+INITIALIZING GIT REPOSITORY
+===========================
+(BRAND NEW PROJECTS)
+mkdir learning-git
+cd learning-git
+git init .
+
+
+GIT STATUS
+==========
+(to see changes)
+git status
+
+
+
+STAGE
+=======
+(single file)
+git add index.html
+
+(folder and subfolders)
+git add .
+
+(everything inside the repo)
+git add -A
+
+
+
+UNSTAGE
+=======
+(single file)
+git rm --cached index.html
+
+(everything)
+git rm -r --cached .
