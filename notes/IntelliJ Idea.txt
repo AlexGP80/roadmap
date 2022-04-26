@@ -1,0 +1,18 @@
+SHORTCUTS
+=========
+
+- New Java Class: CTRL + ALT + INS
+- Add Constructor Param: ALT + ENTER
+- Complete Statement: SHIFT + CTRL + ENTER
+- Extract to Variable: CTRL + ALT + V
+- Search Anything: 2 x SHIFT
+- Go to Test: CTRL + SHIFT + TEST
+
+
+ABRV
+====
+psvm => public static void main(String[] args) {}
+main => public static void main(String[] args) {}
+sout => System.out.println()
+get... => getters
+toS... => toString (generate via Wizard)
